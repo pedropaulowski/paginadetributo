@@ -1,5 +1,5 @@
 body{
-	background-color: gray;
+	background-color: #ccc;
 }
 .container{
 	width: 960px;
@@ -7,8 +7,11 @@ body{
 	text-align: center;
 }
 .container img{
-	border-color: white;
-	border-radius: 5px;
+	border-bottom-color: red;
+	border-top-color: red;
+	border-left-color: blue;
+	border-right-color: blue;
+	border-radius: 5%;
 }
 .header{
 	text-align: center;
@@ -19,4 +22,7 @@ body{
 }
 a{
 	color: black;
+}
+.timeline p{
+	font-size: 18px;
 }
