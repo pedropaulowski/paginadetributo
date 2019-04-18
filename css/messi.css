@@ -1,0 +1,22 @@
+body{
+	background-color: gray;
+}
+.container{
+	width: 960px;
+	margin: auto;
+	text-align: center;
+}
+.container img{
+	border-color: white;
+	border-radius: 5px;
+}
+.header{
+	text-align: center;
+}
+.timeline{
+	width: 300px;
+	margin: auto;
+}
+a{
+	color: black;
+}
